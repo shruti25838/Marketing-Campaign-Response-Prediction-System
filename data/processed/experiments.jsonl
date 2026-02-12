@@ -1,0 +1,1 @@
+{"timestamp": "2026-02-12T18:29:59Z", "config": {"csv_path": "data/raw/campaign_data.csv", "db_url": false, "table": "campaign_data", "target_col": "response", "model_key": "lightgbm", "use_smote": true, "rows": 11162, "features": 30}, "metrics": {"precision": 0.8309608540925267, "recall": 0.8827977315689981, "f1": 0.8560953253895509, "roc_auc": 0.9293246993524514}}
